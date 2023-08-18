@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87945082-5915-4A5D-B357-F581C80214B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2C844CE-DBFE-4F51-853A-BC736BAA8707"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTicketBookingApp/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "callAPIgetMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2C844CE-DBFE-4F51-853A-BC736BAA8707 - d4ca5c5dc07dc77c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MovieTicketBookingApp.MoviesResponseModel&gt;) -&gt; () in MovieTicketBookingApp.MovieDetailsViewController.callAPIgetMovies() -&gt; ()"
+                  moduleName = "MovieTicketBookingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lelinh/Desktop/MovieTicketBookingAppIOS/MovieTicketBookingApp/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "B2C844CE-DBFE-4F51-853A-BC736BAA8707 - d4ca5c5dc07dc77c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MovieTicketBookingApp.MoviesResponseModel&gt;) -&gt; () in MovieTicketBookingApp.MovieDetailsViewController.callAPIgetMovies() -&gt; ()"
+                  moduleName = "MovieTicketBookingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lelinh/Desktop/MovieTicketBookingAppIOS/MovieTicketBookingApp/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F8397A9-1C26-4312-B96A-DDE41C91D7E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTicketBookingApp/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "callAPIgetMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F8397A9-1C26-4312-B96A-DDE41C91D7E0 - 4d4e3e42740f0650"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTicketBookingApp.MovieDetailsViewController.callAPIgetMovies() -&gt; ()"
+                  moduleName = "MovieTicketBookingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lelinh/Desktop/MovieTicketBookingAppIOS/MovieTicketBookingApp/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "9F8397A9-1C26-4312-B96A-DDE41C91D7E0 - d4ca5c5dc07dc77c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MovieTicketBookingApp.MoviesResponseModel&gt;) -&gt; () in MovieTicketBookingApp.MovieDetailsViewController.callAPIgetMovies() -&gt; ()"
+                  moduleName = "MovieTicketBookingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lelinh/Desktop/MovieTicketBookingAppIOS/MovieTicketBookingApp/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7896F4E-BE31-48E3-A967-7858A5772CE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTicketBookingApp/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getMovies(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7896F4E-BE31-48E3-A967-7858A5772CE3 - cb09309fe7b5e3af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTicketBookingApp.APIHander.getMovies(completion: (Swift.Array&lt;MovieTicketBookingApp.MoviesResponseModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieTicketBookingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lelinh/Desktop/MovieTicketBookingAppIOS/MovieTicketBookingApp/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "D7896F4E-BE31-48E3-A967-7858A5772CE3 - 68e4385ece7206cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;MovieTicketBookingApp.MoviesResponseModel&gt;, Alamofire.AFError&gt;) -&gt; () in MovieTicketBookingApp.APIHander.getMovies(completion: (Swift.Array&lt;MovieTicketBookingApp.MoviesResponseModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieTicketBookingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lelinh/Desktop/MovieTicketBookingAppIOS/MovieTicketBookingApp/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "308C03B0-AEAD-4D6F-BE2F-0D7BD6F0934A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTicketBookingApp/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getMovies(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
